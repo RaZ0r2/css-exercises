@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/*Impares*/
+.odds {
+    background-color: rgb(247, 176, 176);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/*Número 2*/
+ #bigblueone {
+    color: #0000ff;
+    font-size: 36px;
+ }
+
+ /*Número 3*/
+ .fontsize-three {
+    font-size: 24px;
+ }
+
+ /*Número 4*/
+#greenone {
+    background-color: rgb(122, 232, 122);
+    font-size: 24px;
+    font-weight: bold;
+}
